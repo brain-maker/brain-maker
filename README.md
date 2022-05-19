@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brain-maker
 - 👀 I’m interested in learning new technology skills
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning react library
 - 💞️ I’m looking to collaborate on any javascript project to challenge myself
 - 📫 Reach on my email brainambani1@gmail.com/ whatsApp +254741711848
 
